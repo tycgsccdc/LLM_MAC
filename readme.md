@@ -1,4 +1,4 @@
-
+# LLM影圖理解試用
 # 使用裝置
 #### MAC STUDIO  RAM192G
 # 可用function:
